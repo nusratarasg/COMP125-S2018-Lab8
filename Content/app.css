@@ -1,0 +1,32 @@
+/* your custom CSS goes here */
+
+/*  File name          app.css
+    Author's name      Nusrat Ara Riaz
+    Student id         300759574
+    Comp125-s2018      Lab8
+    File description   This file contain custom CSS 
+*/
+
+#MainContent {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+nav {
+  opacity: 0.8;
+}
+
+#Result {
+  margin-left: 20px;
+}
+
+#Result,
+#minRangeValue,
+#maxRangeValue {
+  min-height: 40px
+}
+
+#canvas {
+  border: 1px solid black;
+  background-color: white;
+}
